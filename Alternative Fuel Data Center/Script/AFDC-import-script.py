@@ -21,6 +21,18 @@ NETWORK_MAP = {
     "Blink Network": "Blink",
     "RED_E": "Red E",
     "CHARGELAB": "ChargeLab",
+    "RIVIAN_ADVENTURE": "Rivian Adventure",
+    "RIVIAN_WAYPOINTS": "Rivian Waypoints",
+    "ELECTRIC_ERA": "Electric Era",
+    "BP_PULSE": "bp pulse",
+    "7CHARGE": "7Charge",
+    "APPLEGREEN": "Applegreen",
+    "CHARGENET": "ChargeNet",
+    "CIRCLE_K": "Circle K Charge",
+    "ENVIROSPARK": "EnviroSpark",
+    "FORD_CHARGE": "Blue Oval",
+    "FPLEV": "FPL EVolution",
+    "KWIK_CHARGE": "Kwik Charge",
 }
 ADDRESS_EXPANSIONS = {
     r"\bSt\b": "Street",
