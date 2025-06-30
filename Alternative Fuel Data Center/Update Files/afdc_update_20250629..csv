@@ -1,0 +1,85 @@
+addr:housenumber,addr:street,addr:city,addr:state,addr:postcode,addr:country,network:phone,opening_hours,network,network:website,Latitude,Longitude,check_date,ref:afdc,start_date,socket:type1_combo,socket:type1_combo:output,socket:chademo,socket:chademo:output,socket:nacs,socket:nacs:output,man_made,frequency,access,amenity
+575,Currant Road,Fall River,MA,02720,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,41.741375,-71.108166,2025-06-29,400568,2025-06-24,1,62,1,62,,,charge_point,0,yes,
+575,Currant Road,Fall River,MA,02720,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,41.741343,-71.108091,2025-06-29,400569,2025-06-24,1,62,1,62,,,charge_point,0,yes,
+14851,Lyons Road,Delray Beach,FL,33446,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,26.455812,-80.191125,2025-06-29,400599,2025-06-24,1,400,,,,,charge_point,0,yes,
+14851,Lyons Road,Delray Beach,FL,33446,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,26.455812,-80.191125,2025-06-29,400599,2025-06-24,1,400,,,,,charge_point,0,yes,
+14851,Lyons Road,Delray Beach,FL,33446,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,26.455803,-80.191062,2025-06-29,400600,2025-06-24,1,400,,,,,charge_point,0,yes,
+14851,Lyons Road,Delray Beach,FL,33446,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,26.455803,-80.191062,2025-06-29,400600,2025-06-24,1,400,,,,,charge_point,0,yes,
+14851,Lyons Road,Delray Beach,FL,33446,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,26.455804,-80.190771,2025-06-29,400601,2025-06-24,1,400,,,,,charge_point,0,yes,
+14851,Lyons Road,Delray Beach,FL,33446,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,26.455804,-80.190771,2025-06-29,400601,2025-06-24,1,400,,,,,charge_point,0,yes,
+14851,Lyons Road,Delray Beach,FL,33446,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,26.455803,-80.190968,2025-06-29,400603,2025-06-24,1,400,,,,,charge_point,0,yes,
+14851,Lyons Road,Delray Beach,FL,33446,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,26.455803,-80.190968,2025-06-29,400603,2025-06-24,1,400,,,,,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801246,-95.000327,2025-06-29,400662,2025-06-25,1,400,,,,,charge_point,0,yes,
+2712,Neil Armstrong Parkway,Hampton,VA,23666,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,37.06339,-76.39857,2025-06-29,400663,2025-06-25,1,62,1,62,,,charge_point,0,yes,
+2712,Neil Armstrong Parkway,Hampton,VA,23666,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,37.062946,-76.39847,2025-06-29,400664,2025-06-25,1,62,1,62,,,charge_point,0,yes,
+1400,Columbus Parkway,Opelika,AL,36804,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,32.643738,-85.34751,2025-06-29,404625,2025-06-27,1,80,,,1,80,charge_point,0,yes,
+1400,Columbus Parkway,Opelika,AL,36804,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,32.643761,-85.347524,2025-06-29,404626,2025-06-27,1,80,,,1,80,charge_point,0,yes,
+1400,Columbus Parkway,Opelika,AL,36804,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,32.64379,-85.347504,2025-06-29,404627,2025-06-27,1,80,,,1,80,charge_point,0,yes,
+1400,Columbus Parkway,Opelika,AL,36804,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,32.643833,-85.347494,2025-06-29,404628,2025-06-27,1,80,1,80,,,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801245,-95.00029,2025-06-29,404636,2025-06-27,1,400,,,,,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801245,-95.00029,2025-06-29,404636,2025-06-27,,,,,1,400,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801272,-95.000108,2025-06-29,404637,2025-06-27,1,400,,,,,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801272,-95.000108,2025-06-29,404637,2025-06-27,,,,,1,400,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801277,-95.000066,2025-06-29,404638,2025-06-27,1,400,,,,,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801277,-95.000066,2025-06-29,404638,2025-06-27,,,,,1,400,charge_point,0,yes,
+2025,Baxter Street,Athens,GA,30606,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,33.945861,-83.403926,2025-06-29,404639,2025-06-27,1,62,1,62,,,charge_point,0,yes,
+4800,US-52,Rochester,MN,55901,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,44.072567,-92.50278,2025-06-29,404640,2025-06-27,1,62,1,62,,,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801257,-95.000231,2025-06-29,404641,2025-06-27,1,400,,,,,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801257,-95.000231,2025-06-29,404641,2025-06-27,,,,,1,400,charge_point,0,yes,
+2025,Baxter Street,Athens,GA,30606,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,33.945542,-83.403133,2025-06-29,404642,2025-06-27,1,62,1,62,,,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801263,-95.000171,2025-06-29,404643,2025-06-27,1,400,,,,,charge_point,0,yes,
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801263,-95.000171,2025-06-29,404643,2025-06-27,,,,,1,400,charge_point,0,yes,
+1301,West Lugonia Avenue,Redlands,CA,92374,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,34.069749,-117.20226,2025-06-29,404645,2025-06-27,1,62,,,1,62,charge_point,0,yes,
+1301,West Lugonia Avenue,Redlands,CA,92374,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,34.06963,-117.202709,2025-06-29,404646,2025-06-27,1,125,,,1,125,charge_point,0,yes,
+1301,West Lugonia Avenue,Redlands,CA,92374,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,34.069631,-117.202571,2025-06-29,404647,2025-06-27,1,125,,,1,125,charge_point,0,yes,
+1301,West Lugonia Avenue,Redlands,CA,92374,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,34.069644,-117.202482,2025-06-29,404648,2025-06-27,1,125,,,1,125,charge_point,0,yes,
+1301,West Lugonia Avenue,Redlands,CA,92374,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,34.069722,-117.202457,2025-06-29,404649,2025-06-27,1,62,,,1,62,charge_point,0,yes,
+1301,West Lugonia Avenue,Redlands,CA,92374,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,34.0698,-117.202438,2025-06-29,404650,2025-06-27,1,62,,,1,62,charge_point,0,yes,
+750,Carol Malone Boulevard,Grayson,KY,41143,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,38.340795,-82.942249,2025-06-29,404657,2025-06-27,1,320,,,1,320,charge_point,0,yes,
+750,Carol Malone Boulevard,Grayson,KY,41143,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,38.340795,-82.942249,2025-06-29,404657,2025-06-27,1,320,,,1,320,charge_point,0,yes,
+750,Carol Malone Boulevard,Grayson,KY,41143,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,38.34077,-82.942325,2025-06-29,404659,2025-06-27,1,320,,,1,320,charge_point,0,yes,
+750,Carol Malone Boulevard,Grayson,KY,41143,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,38.34077,-82.942325,2025-06-29,404659,2025-06-27,1,320,,,1,320,charge_point,0,yes,
+442,West Broadway,Gardner,MA,01440,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,42.562709,-71.997324,2025-06-29,404713,2025-06-28,1,360,,,,,charge_point,0,yes,
+442,West Broadway,Gardner,MA,01440,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,42.562709,-71.997324,2025-06-29,404713,2025-06-28,1,360,,,,,charge_point,0,yes,
+442,West Broadway,Gardner,MA,01440,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,42.562576,-71.997423,2025-06-29,404714,2025-06-28,1,400,,,,,charge_point,0,yes,
+442,West Broadway,Gardner,MA,01440,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,42.562576,-71.997423,2025-06-29,404714,2025-06-28,1,400,,,,,charge_point,0,yes,
+4800,US-52,Rochester,MN,55901,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,44.072521,-92.502583,2025-06-29,404723,2025-06-28,1,200,,,,,charge_point,0,yes,
+4800,US-52,Rochester,MN,55901,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,44.072521,-92.502583,2025-06-29,404723,2025-06-28,1,200,,,,,charge_point,0,yes,
+1,Peter White Drive,Marquette,MI,49855,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,46.581636,-87.384149,2025-06-29,404656,2025-06-27,1,62,1,62,,,,,,charging_station
+10,Interstate Drive,Vandalia,IL,62471,US,+1-877-455-3833,24/7,EVgo,https://www.evgo.com,38.97118,-89.13613,2025-06-29,400686,2025-06-25,4,350,,,,,,,,charging_station
+116,North Mission Street,Mt Pleasant,MI,48858,US,+1-313-262-6722,24/7,Red E,https://www.redecharge.com,43.60537,-84.767197,2025-06-29,400216,2025-06-23,1,50,1,49,,,,,,charging_station
+1301,West Lugonia Avenue,Redlands,CA,92374,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,34.069696,-117.202486,2025-06-29,404645;404646;404647;404648;404649;404650,2025-06-27,6,125;62,,,6,125;62,,,,charging_station
+1400,Columbus Parkway,Opelika,AL,36804,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,32.64378,-85.347508,2025-06-29,404625;404626;404627;404628,2025-06-27,4,80,1,80,3,80,,,,charging_station
+14851,Lyons Road,Delray Beach,FL,33446,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,26.455806,-80.190981,2025-06-29,400599;400600;400601;400603,2025-06-24,8,400,,,,,,,,charging_station
+1500,19th Avenue,San Francisco,CA,94122,US,+1-855-900-7584,24/7,Shell Recharge,https://www.shell.us/motorist/electric-vehicle-charging.html,37.759725,-122.476505,2025-06-29,404728,2025-06-28,12,360,,,,,,,,charging_station
+1750,North Pepper Lane,Liberty Lake,WA,99019,US,+1-888-998-2546,24/7,Blink,https://blinkcharging.com,47.672733,-117.111742,2025-06-30,404700,2025-06-26,2,120,,,,,,,,charging_station
+1955,Workman Mill Road,Whittier,CA,90601,US,+1-833-387-2643,24/7,EVRANGE,https://www.evrange.com,34.033254,-118.02098,2025-06-29,404730,2025-06-27,1,50,1,50,,,,,,charging_station
+200,North Lakeshore Boulevard,Marquette,MI,49855,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,46.543626,-87.38744,2025-06-29,404663,2025-06-27,1,62,1,62,,,,,,charging_station
+2025,Baxter Street,Athens,GA,30606,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,33.945702,-83.403529,2025-06-29,404639;404642,2025-06-27,2,62,2,62,,,,,,charging_station
+2195,Highway 6 And 50,Grand Junction,CO,81505,US,+1-877-455-3833,24/7,EVgo,https://www.evgo.com,39.11254,-108.64817,2025-06-29,404765,2025-06-28,4,350,,,,,,,,charging_station
+220,South Columbus Road,Wooster,OH,44691,US,+1-313-262-6722,24/7,Red E,https://www.redecharge.com,40.795616,-81.947056,2025-06-29,400723,2025-06-25,3,201,1,100,,,,,,charging_station
+2300,South Route 59,Plainfield,IL,60586,US,+1-877-455-3833,24/7,EVgo,https://www.evgo.com,41.563343,-88.199912,2025-06-29,404763,2025-06-28,6,350,,,,,,,,charging_station
+2501,Fremont Drive,Canon City,CO,81212,US,+1-866-816-7584,24/7,EV Connect,https://www.evconnect.com,38.44864,-105.2106,2025-06-29,400673,2025-06-25,4,140;240,,,,,,,,charging_station
+2535,North Highway 360,Grand Prairie,TX,75050,US,+1-833-466-2474,24/7,IONNA,https://www.ionna.com,32.793114,-97.058026,2025-06-29,400722,2025-06-26,6,400,,,4,400,,,,charging_station
+2635,West 8th Avenue,Denver,CO,80204,US,+1-866-816-7584,24/7,EV Connect,https://www.evconnect.com,39.729476,-105.02019,2025-06-29,400669,2025-06-25,1,240,,,1,240,,,,charging_station
+2712,Neil Armstrong Parkway,Hampton,VA,23666,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,37.063168,-76.39852,2025-06-29,400663;400664,2025-06-25,2,62,2,62,,,,,,charging_station
+2970,Frembes Road,Waterford Twp,MI,46329,US,+1-313-262-6722,24/7,Red E,https://www.redecharge.com,42.681504,-83.381308,2025-06-29,400249,2025-06-23,2,180,,,,,,,,charging_station
+32670,Blue Star Highway,Midway,FL,32343,US,+1-877-455-3833,24/7,EVgo,https://www.evgo.com,30.493933,-84.429881,2025-06-29,404764,2025-06-28,4,350,,,,,,,,charging_station
+3350,Highway 61 North,Saint Paul,MN,55110,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,45.041463,-93.038377,2025-06-29,400658,2025-06-25,1,62,,,1,62,,,,charging_station
+3375,Benning Road Northeast,Washington,DC,20019,US,+1-888-356-8911,24/7,FLO,https://www.flo.com,38.896407,-76.958413,2025-06-29,404678,2025-06-27,4,320,,,,,,,,charging_station
+4080,East Freeway,Baytown,TX,77521,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,29.801261,-95.000187,2025-06-29,400662;404636;404637;404638;404641;404643,2025-06-25;2025-06-27,6,400,,,5,400,,,,charging_station
+425,Motor Way,Hemet,CA,92545,US,+1-888-998-2546,24/7,Blink,https://blinkcharging.com,33.739351,-117.031797,2025-06-30,400551,2025-06-23,2,180,,,,,,,,charging_station
+43604,U.S. 69,Jacksonville,TX,75766,US,+1-888-998-2546,24/7,Blink,https://blinkcharging.com,32.014333,-95.279246,2025-06-30,404588,2025-06-26,2,180,,,,,,,,charging_station
+442,West Broadway,Gardner,MA,01440,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,42.562642,-71.997374,2025-06-29,404713;404714,2025-06-28,4,360;400,,,,,,,,charging_station
+4748,US-52,Rochester,MN,55904,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,44.072008,-92.502464,2025-06-29,404655,2025-06-27,1,62,1,62,,,,,,charging_station
+4800,US-52,Rochester,MN,55901,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,44.072536,-92.502649,2025-06-29,404640;404723,2025-06-27;2025-06-28,3,200;62,1,62,,,,,,charging_station
+4950,New Car Drive,Colorado Springs,CO,80923,US,+1-866-816-7584,24/7,EV Connect,https://www.evconnect.com,38.938917,-104.73623,2025-06-29,400672,2025-06-25,2,180,,,,,,,,charging_station
+575,Currant Road,Fall River,MA,02720,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,41.741359,-71.108128,2025-06-29,400568;400569,2025-06-24,2,62,2,62,,,,,,charging_station
+5750,Merle Hay Road,Johnston,IA,50131,US,+1-800-636-0986,24/7,ChargeLab,https://chargelab.co,41.665059,-93.699413,2025-06-29,400720,2025-06-26,1,351,1,200,,,,,,charging_station
+652,Rosedale Shopping Center,Roseville,MN,55113,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,45.013748,-93.169299,2025-06-30,400644,2025-06-25,1,62,1,62,,,,,,charging_station
+6900,Old U.S. 27,Fremont,IN,46737,US,+1-877-455-3833,24/7,EVgo,https://www.evgo.com,41.74338,-84.99968,2025-06-29,400687,2025-06-25,4,350,,,,,,,,charging_station
+7401,Southwest 9th Street,Des Moines,IA,50315,US,+1-800-636-0986,24/7,ChargeLab,https://chargelab.co,41.521153,-93.624552,2025-06-29,400190,2025-06-22,2,50,2,50,,,,,,charging_station
+750,Carol Malone Boulevard,Grayson,KY,41143,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,38.340782,-82.942287,2025-06-29,404657;404659,2025-06-27,4,320,,,4,320,,,,charging_station
+769,East Frontage Road,Rio Rico,AZ,85648,US,+1-877-455-3833,24/7,EVgo,https://www.evgo.com,31.43084,-110.96205,2025-06-29,404579,2025-06-26,4,350,,,,,,,,charging_station
+830,Valley Creek Drive,Farmington,MO,63640,US,+1-313-262-6722,24/7,Red E,https://www.redecharge.com,37.791584,-90.441812,2025-06-29,404691,2025-06-27,2,120,,,,,,,,charging_station
+931,US-50,Salida,CO,81201,US,+1-866-816-7584,24/7,EV Connect,https://www.evconnect.com,38.523511,-105.992086,2025-06-29,400671,2025-06-25,2,140,,,,,,,,charging_station
