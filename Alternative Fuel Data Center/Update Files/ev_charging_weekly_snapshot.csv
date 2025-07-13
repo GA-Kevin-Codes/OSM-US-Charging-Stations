@@ -1,0 +1,29 @@
+addr:housenumber,addr:street,addr:city,addr:state,addr:postcode,addr:country,network:phone,opening_hours,network,network:website,Latitude,Longitude,check_date,ref:afdc,start_date,socket:type1_combo,socket:type1_combo:output,socket:chademo,socket:chademo:output,socket:nacs,socket:nacs:output,man_made,frequency,access,amenity
+611,Brevard Road,Asheville,NC,28806,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,35.549866,-82.601676,2025-07-11,405781,2025-07-10,1,120,,,,,charge_point,0,yes,
+611,Brevard Road,Asheville,NC,28806,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,35.549866,-82.601676,2025-07-11,405781,2025-07-10,1,120,,,,,charge_point,0,yes,
+611,Brevard Road,Asheville,NC,28806,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,35.549863,-82.601785,2025-07-11,405783,2025-07-10,1,120,,,,,charge_point,0,yes,
+611,Brevard Road,Asheville,NC,28806,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,35.549863,-82.601785,2025-07-11,405783,2025-07-10,1,120,,,,,charge_point,0,yes,
+1001,North Dupont Highway,Dover,DE,19901,US,+1-833-632-2778,24/7,Electrify America,https://www.electrifyamerica.com,39.187,-75.53479,2025-07-11,405671,2025-07-08,6,350,,,,,,,,charging_station
+1216,East Palestine Avenue,Palestine,TX,75801,US,+1-866-816-7584,24/7,EV Connect,https://www.evconnect.com,31.776,-95.618482,2025-07-11,405725,2025-07-09,1,50,,,,,,,,charging_station
+1700,Oak Street,Canton,MO,63435,US,+1-888-222-6618,24/7,NOODOE,https://www.noodoe.com,40.12362,-91.538828,2025-07-11,405531,2025-07-07,1,75,,,1,75,,,,charging_station
+180,A Cambridge Street,Burlington,MA,01803,US,+1-877-455-3833,24/7,EVgo,https://www.evgo.com,42.510476,-71.197697,2025-07-12,416069,2025-07-12,6,100;350,,,,,,,,charging_station
+1900,Ikea Way,Columbus,OH,43240,US,+1-833-632-2778,24/7,Electrify America,https://www.electrifyamerica.com,40.1498,-82.96557,2025-07-11,405897,2025-07-11,6,350,,,,,,,,charging_station
+2000,Coastal Grand Cir,Myrtle Beach,SC,29577,US,+1-833-632-2778,24/7,Electrify America,https://www.electrifyamerica.com,33.70469,-78.92472,2025-07-11,405672,2025-07-08,6,350,,,,,,,,charging_station
+2000,Waters Road,Ann Arbor,MI,48103,US,+1-833-632-2778,24/7,Electrify America,https://www.electrifyamerica.com,42.2436,-83.7682,2025-07-11,405811,2025-07-10,8,350,,,,,,,,charging_station
+2079,Highway 71,Audubon,IA,50025,US,+1-800-636-0986,24/7,ChargeLab,https://chargelab.co,41.705175,-94.925933,2025-07-11,406099,2025-07-11,2,351,2,200,,,,,,charging_station
+2090,Larkin Avenue,Elgin,IL,60123,US,+1-888-222-6618,24/7,NOODOE,https://www.noodoe.com,42.032716,-88.328377,2025-07-11,406094,2025-07-11,4,240,,,,,,,,charging_station
+2200,Seymour Road,Jackson,MI,49201,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,42.27764,-84.379432,2025-07-11,405797,2025-07-10,2,75,,,,,,,,charging_station
+2300,Mendocino Avenue,Santa Rosa,CA,95403,US,+1-877-455-3833,24/7,EVgo,https://www.evgo.com,38.46324,-122.71737,2025-07-12,416070,2025-07-12,4,350,,,,,,,,charging_station
+2813,Pine Street,Arkadelphia,AR,71923,US,+1-866-816-7584,24/7,EV Connect,https://www.evconnect.com,34.119728,-93.084659,2025-07-11,405724,2025-07-09,2,350,,,,,,,,charging_station
+319,Ridge Road,Dayton,NJ,08810,US,+1-949-945-2000,24/7,EVGATEWAY,https://evgateway.com,40.372358,-74.498602,2025-07-11,406096,2025-07-11,4,30,,,,,,,,charging_station
+324,Campus Lane,Fairfield,CA,94534,US,+1-800-636-0986,24/7,ChargeLab,https://chargelab.co,38.231135,-122.125179,2025-07-11,406098,2025-07-11,2,180,,,2,180,,,,charging_station
+3403,East Central Texas Expressway,Killeen,TX,76543,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,31.084313,-97.704362,2025-07-11,405640,2025-07-08,1,62,1,62,,,,,,charging_station
+470,South Allison Parkway,Lakewood,CO,80226,US,+1-866-816-7584,24/7,EV Connect,https://www.evconnect.com,39.708398,-105.085201,2025-07-11,405726,2025-07-09,2,180,2,100,,,,,,charging_station
+575,Quincy Avenue,Braintree,MA,02184,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,42.236439,-70.97847,2025-07-11,405881,2025-07-11,2,80,,,,,,,,charging_station
+575,Quincy Avenue,Quincy,MA,02169,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,42.23624,-70.978796,2025-07-11,405798,2025-07-10,1,62,1,62,,,,,,charging_station
+5825,Highland rd,Waterford,MI,48327,US,+1-313-262-6722,24/7,Red E,https://www.redecharge.com,42.65985,-83.40258,2025-07-11,405744,2025-07-08,2,161,,,,,,,,charging_station
+5990,North Green Bay Avenue,Glendale,WI,53209,US,+1-844-226-3873,24/7,ABM,https://info.abm.com/SimplifyEV,43.126012,-87.934474,2025-07-11,405524,2025-07-06,2,24,,,,,,,,charging_station
+611,Brevard Road,Asheville,NC,28806,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,35.549864,-82.60173,2025-07-11,405781;405783,2025-07-10,4,120,,,,,,,,charging_station
+808,4th Street Southeast,Hampton,IA,50441,US,+1-800-636-0986,24/7,ChargeLab,https://chargelab.co,42.734083,-93.201369,2025-07-11,406102,2025-07-11,2,351,2,200,,,,,,charging_station
+8199,Rivers Avenue,North Charleston,SC,29406,US,+1-888-493-3638,24/7,ZEFNET,https://www.zefenergy.com,32.95669,-80.04525,2025-07-11,405532,2025-07-07,2,,,,,,,,,charging_station
+862,Broadmeadow Road,Rantoul,IL,61866,US,+1-888-758-4389,24/7,ChargePoint,https://www.chargepoint.com,40.307036,-88.179203,2025-07-11,405799,2025-07-10,2,200,,,,,,,,charging_station
